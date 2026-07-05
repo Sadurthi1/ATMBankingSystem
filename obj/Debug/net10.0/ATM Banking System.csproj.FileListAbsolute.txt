@@ -1,0 +1,34 @@
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\bin\Debug\net10.0\appsettings.json
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\bin\Debug\net10.0\ATM Banking System.staticwebassets.endpoints.json
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\bin\Debug\net10.0\ATM Banking System.exe
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\bin\Debug\net10.0\ATM Banking System.deps.json
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\bin\Debug\net10.0\ATM Banking System.runtimeconfig.json
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\bin\Debug\net10.0\ATM Banking System.dll
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\bin\Debug\net10.0\ATM Banking System.pdb
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\Debug\net10.0\ATM Banking System.csproj.AssemblyReference.cache
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\Debug\net10.0\ATM Banking System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\Debug\net10.0\ATM Banking System.AssemblyInfoInputs.cache
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\Debug\net10.0\ATM Banking System.AssemblyInfo.cs
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\Debug\net10.0\ATM Banking System.csproj.CoreCompileInputs.cache
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\Debug\net10.0\ATM Banking System.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\Debug\net10.0\ATM Banking System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\Debug\net10.0\scopedcss\bundle\ATM Banking System.styles.css
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\Debug\net10.0\ATM Bank.3D646E79.Up2Date
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\Debug\net10.0\ATM Banking System.dll
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\Debug\net10.0\refint\ATM Banking System.dll
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\Debug\net10.0\ATM Banking System.pdb
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\Debug\net10.0\ATM Banking System.genruntimeconfig.cache
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\Debug\net10.0\ref\ATM Banking System.dll
