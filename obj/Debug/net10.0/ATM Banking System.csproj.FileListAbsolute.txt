@@ -32,3 +32,4 @@ C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\D
 C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\Debug\net10.0\ATM Banking System.pdb
 C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\Debug\net10.0\ATM Banking System.genruntimeconfig.cache
 C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\Debug\net10.0\ref\ATM Banking System.dll
+C:\Users\adurt\source\repos\Projects\ATM Banking System\ATM Banking System\obj\Debug\net10.0\ATM Banking System.sourcelink.json
